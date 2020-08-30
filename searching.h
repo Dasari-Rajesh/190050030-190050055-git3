@@ -1,4 +1,5 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-bool search_custom( std::vector<int> v, int num);
+bool search_custom(std::vector<int> v, int num, int startidx, int endidx);
+
